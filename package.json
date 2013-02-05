@@ -1,0 +1,12 @@
+{
+    "name": "ahipa",
+    "version": "0.1.0",
+    "description": "A pure Javascript frontend for Daikon, the dynamic invariant generator. Ahipa instruments code as it loads in order to generate a Daikon output trace.",
+    "keywords": [ "instrumentation", "invariant", "daikon", "dynamic analysis" ],
+    "author": "Brian Burg <burg@cs.washington.edu>",
+    "preferGlobal": true,
+    "dependencies": {
+        "esprima": "1.0.x",
+        "escodegen": "0.0.x"
+    }
+}
