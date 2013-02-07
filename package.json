@@ -19,6 +19,8 @@
         "fileset": "0.1.x",
         "mkdirp": "0.3.x",
         "nopt": "2.0.x",
-        "async": "0.1.x"
+        "async": "0.1.x",
+        "which": "1.0.x",
+        "resolve": "0.2.x"
     }
 }
